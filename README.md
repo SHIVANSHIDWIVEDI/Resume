@@ -8,9 +8,7 @@ This is a simple and responsive resume webpage built using **HTML, CSS, and Java
 - 🎨 Styled using CSS for a professional look  
 - 💡 Interactive elements using JavaScript  
 - 🖥️ Easily customizable  
-
-## 📷 Preview
-![Resume Screenshot](URL_TO_IMAGE) *(Add a screenshot of your resume webpage)*  
+ 
 
 ## 🚀 Technologies Used
 - **HTML** - Structure of the resume  
